@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "r/dailyprogrammer challenges in node",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha ./**/test.js",
+    "run": "node ./run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottyVG/code-challenges.git"
+  },
+  "author": "Scott Van Gilder",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.0.5"
+  }
+}
