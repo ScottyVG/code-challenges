@@ -1,0 +1,24 @@
+{
+  "name": "adventofcode2017",
+  "version": "1.0.0",
+  "description": "Advent of Code 2017",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha src/day*/**/test.js",
+    "santashelper": "node ./src/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottyVG/adventofcode2017.git"
+  },
+  "author": "Scott Van Gilder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottyVG/adventofcode2017/issues"
+  },
+  "homepage": "https://github.com/ScottyVG/adventofcode2017#readme"
+}
