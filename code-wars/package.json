@@ -1,0 +1,26 @@
+{
+  "name": "code-wars",
+  "version": "1.0.0",
+  "description": "CODE WARS!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/**/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottyVG/code-challenges.git"
+  },
+  "keywords": [
+    "javascript",
+    "sql"
+  ],
+  "author": "Scott Van Gilder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottyVG/code-challenges/issues"
+  },
+  "homepage": "https://github.com/ScottyVG/code-challenges#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
